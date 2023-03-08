@@ -1,0 +1,612 @@
+- alternatives:
+  - get
+  - print
+  - write
+  answer: input
+  dateAsked: null
+  numCorrect: 0
+  question: Which built-in function can get information from the user?
+- alternatives:
+  - To combine several strings into one
+  - To compress several files into one archive
+  - To get information from the user
+  answer: To iterate over two or more sequences at the same time
+  dateAsked: null
+  numCorrect: 0
+  question: What's the purpose of the Python zip() function?
+- alternatives:
+  - key
+  - 'True'
+  - 'False'
+  answer: None
+  dateAsked: null
+  numCorrect: 0
+  question: What does dict.get(key) return if key isn't found in dict?
+- alternatives:
+  - enumerate(iterable, start=1)
+  - range(iterable)
+  - range(iterable, start=1)
+  answer: enumerate(iterable)
+  dateAsked: null
+  numCorrect: 0
+  question: How do you iterate over both indices and elements in an iterable?
+- alternatives:
+  - Byte
+  - Input
+  - Variable
+  answer: Bit
+  dateAsked: null
+  numCorrect: 0
+  question: The most basic unit of information, it represents a single 0 or 1 of digital
+    information.
+- alternatives:
+  - Pixel
+  - Character
+  - String
+  answer: Byte
+  dateAsked: null
+  numCorrect: 0
+  question: Is a unit of information that consists of 8 bits. Typically a single character
+    of any kind takes up a single Bytes worth of space in a computer's memory.
+- alternatives:
+  - Integer
+  - Program
+  - Variable
+  answer: Pixel
+  dateAsked: null
+  numCorrect: 0
+  question: An individual point of light on a display.
+- alternatives:
+  - Output
+  - Variable
+  - Character
+  answer: Input
+  dateAsked: null
+  numCorrect: 0
+  question: Taking in data from either a user or a program.
+- alternatives:
+  - Input
+  - Program
+  - Character
+  answer: Output
+  dateAsked: null
+  numCorrect: 0
+  question: Returning the manipulated data either to the user or another program.
+- alternatives:
+  - Output
+  - Input
+  - String
+  answer: Process
+  dateAsked: null
+  numCorrect: 0
+  question: Manipulating the data taken into the program.
+- alternatives:
+  - Process
+  - Array
+  - Function
+  answer: Program
+  dateAsked: null
+  numCorrect: 0
+  question: This consists of 3 parts input, process, and output.
+- alternatives:
+  - Input
+  - Output
+  - Process
+  answer: Variable
+  dateAsked: null
+  numCorrect: 0
+  question: A data object that contains a value to be used by the program.
+- alternatives:
+  - String
+  - Integer
+  - Short
+  answer: Character
+  dateAsked: null
+  numCorrect: 0
+  question: Typically a data object that contains a single letter of the alphabet
+    though it can be any single text value including things like numbers and punctuations.
+- alternatives:
+  - Program
+  - Integer
+  - Double
+  answer: String
+  dateAsked: null
+  numCorrect: 0
+  question: More than one character value.
+- alternatives:
+  - List
+  - Array
+  - Pixel
+  answer: Integer
+  dateAsked: null
+  numCorrect: 0
+  question: Any whole number value up to 2147483647 and down to -2147483647.
+- alternatives:
+  - Boolean
+  - Integer
+  - Long
+  answer: Short
+  dateAsked: null
+  numCorrect: 0
+  question: A whole number of limited size when compared to an integer or a long.
+    It is 16 bits or 2 bytes in length.
+- alternatives:
+  - Byte
+  - Array
+  - Boolean
+  answer: Long
+  dateAsked: null
+  numCorrect: 0
+  question: Any whole number of greater size than either an integer or a short can
+    hold. It is 32 bits or 4 bytes in length.
+- alternatives:
+  - Character
+  - Program
+  - Double
+  answer: Boolean
+  dateAsked: null
+  numCorrect: 0
+  question: A statement that can be either True or False.
+- alternatives:
+  - Double
+  - Integer
+  - Long
+  answer: Float
+  dateAsked: null
+  numCorrect: 0
+  question: A variable type that can contain any numeric value from -9999999 to 9999999
+    and all of the numbers in between but can only hold 7 digits total so 8888888.88
+    is not valid while 8888.888 is.
+- alternatives:
+  - Character
+  - Program
+  - Integer
+  answer: Double
+  dateAsked: null
+  numCorrect: 0
+  question: A decimal number twice the size of those that a float can contain.
+- alternatives:
+  - Long
+  - String
+  - Character
+  answer: List
+  dateAsked: null
+  numCorrect: 0
+  question: A group of values all contained under the same data object separated by
+    commas.
+- alternatives:
+  - List
+  - Array
+  - Long
+  answer: Dictionary
+  dateAsked: null
+  numCorrect: 0
+  question: A group of values that all consist of two items, a key value and a data
+    value. Each of the key value pairs are separated by a comma.
+- alternatives:
+  - List
+  - Dictionary
+  - Long
+  answer: Array
+  dateAsked: null
+  numCorrect: 0
+  question: A group of values that can consist of complex data objects that will often
+    have key value pair data objects attached to another key value pair or nested
+    dictionaries.
+- alternatives:
+  - For Loop
+  - Array
+  - Do While Loop
+  answer: If Then Statement
+  dateAsked: null
+  numCorrect: 0
+  question: This kind of logic statement checks whether a variable is in a given state
+    and then executes some operation. If the variable isn't in the state the statement
+    is checking it will either execute some other operation or do nothing.
+- alternatives:
+  - Do While Loop
+  - For Each Loop
+  - If Then Statement
+  answer: For Loop
+  dateAsked: null
+  numCorrect: 0
+  question: This kind of logic statement will perform the same operation over and
+    over. A given numeric value will either be increasing or decreasing each time
+    the loop runs until a given value is reached and your program exits the loop.
+- alternatives:
+  - Do While Loop
+  - Array
+  - If Then Statement
+  answer: For Each Loop
+  dateAsked: null
+  numCorrect: 0
+  question: This kind of logic statement is used to step through all of the items
+    contained in a list, array, or more complex but similarly structured data object.
+    For each item contained in the data object the loop will execute some logic until
+    it has touched every item in the data object.
+- alternatives:
+  - For Loop
+  - For Each Loop
+  - If Then Statement
+  answer: While Loop
+  dateAsked: null
+  numCorrect: 0
+  question: This kind of logic statement will perform an operation until the statement
+    that initiated the loop is no-longer valid. If the initial statement is not true
+    none of the code contained within will run.
+- alternatives:
+  - For Loop
+  - For Each Loop
+  - If Then Statement
+  answer: Do While Loop
+  dateAsked: null
+  numCorrect: 0
+  question: This kind of logic statement will execute at least once before checking
+    to see if the while condition is true or not. If the while condition is still
+    valid after the initial code execution it will continue to execute until the while
+    condition is no-longer true.
+- alternatives:
+  - Integer
+  - Array
+  - Variable
+  answer: Function
+  dateAsked: null
+  numCorrect: 2
+  question: Refers to a group of instructions usually given a specific name so that
+    they can then be referenced elsewhere in your application. Functions can be anonymous
+    (meaning they do not have a specific name to allow them be referenced later) but
+    this means they have to be used during the applications run time and that they
+    cannot be referenced elsewhere in your program.
+- alternatives:
+  - Character
+  - List
+  - Dictionary
+  answer: Arguments
+  dateAsked: null
+  numCorrect: 0
+  question: This refers to the values that are passed to a function when you call
+    it.
+- alternatives:
+  - Class
+  - Object Oriented Programming
+  - Inheritance
+  answer: Procedural Programming
+  dateAsked: null
+  numCorrect: 0
+  question: Is a top down approach to writing a program. Any variable or function
+    value that is called by your application must have already been created and or
+    populated further up your application. The format of a program written this way
+    is similar to how a traditional novel would be written with all of the necessary
+    plot points and characters fleshed out before they are referenced later in the
+    text.
+- alternatives:
+  - Procedural Programming
+  - Object Oriented Programming
+  - Inheritance
+  answer: Class
+  dateAsked: null
+  numCorrect: 0
+  question: A core building block in Object Oriented Programming, they define all
+    of the values and functions of a given object.
+- alternatives:
+  - Method
+  - Object Oriented Programming
+  - Inheritance
+  answer: Object
+  dateAsked: null
+  numCorrect: 0
+  question: This is a particular instance of a class.
+- alternatives:
+  - Dictionary
+  - Array
+  - Arguments
+  answer: Method
+  dateAsked: null
+  numCorrect: 0
+  question: A function contained within an object.
+- alternatives:
+  - Object
+  - Class
+  - Polymorphism
+  answer: Field or Attribute
+  dateAsked: null
+  numCorrect: 0
+  question: A variable that is either referenced or set by a method within an object.
+- alternatives:
+  - Procedural Programming
+  - Arguments
+  - Function
+  answer: Object Oriented Programming
+  dateAsked: null
+  numCorrect: 0
+  question: A style of programming that allows functions and variables to be called
+    from anywhere within the entire application and for the values returned by those
+    variables or functions to be changed. This style of programming allows code written
+    once to be reused throughout the rest of the application.
+- alternatives:
+  - Algorithm
+  - Array
+  - Arguments
+  answer: Constructor
+  dateAsked: null
+  numCorrect: 0
+  question: This is any call that creates a new instance of an Object or Class. The
+    keyword new is placed in front of the name of the Object or Class to indicate
+    this is a new instance of it. In Python for instance this is the __init__ function
+    you will often see referenced as the first function in a class.
+- alternatives:
+  - Algorithm
+  - Recursion
+  - Arguments
+  answer: Deconstructor
+  dateAsked: null
+  numCorrect: 0
+  question: This is sometimes called at the end of class to remove from memory or
+    clear any variable values you do not want to store for later use. These are often
+    called automatically by the programming language.
+- alternatives:
+  - Recursion
+  - Polymorphism
+  - Arguments
+  answer: Inheritance
+  dateAsked: null
+  numCorrect: 0
+  question: When a class has many of its attributes (variable values) set by the parent
+    class which it is a subclass of.
+- alternatives:
+  - Loop
+  - Method
+  - Arguments
+  answer: Polymorphism
+  dateAsked: null
+  numCorrect: 0
+  question: Refers to the ability of variables that are members of a class within
+    your application to be assigned different data types and values.
+- alternatives:
+  - Callbacks
+  - Arguments
+  - Inheritance
+  answer: Algorithm
+  dateAsked: null
+  numCorrect: 0
+  question: A series of steps that is followed to achieve a particular outcome.
+- alternatives:
+  - Algorithm
+  - Method
+  - Arguments
+  answer: Loop
+  dateAsked: null
+  numCorrect: 0
+  question: A function that will run against every value in a multi value data object
+    until some stop criteria is met such as the last item in a list or dictionary
+    object.
+- alternatives:
+  - Callbacks
+  - Inheritance
+  - Arguments
+  answer: Recursion
+  dateAsked: null
+  numCorrect: 0
+  question: A type of function that will take its initial output and then run it back
+    through the same operation until some criteria is met such as all of the items
+    in a list object being in a certain order.
+- alternatives:
+  - Array
+  - Inheritance
+  - Arguments
+  answer: Callbacks
+  dateAsked: null
+  numCorrect: 0
+  question: Functions that provide the value for other functions to utilize when they
+    execute.
+- alternatives:
+  - Affinity Propagation Clustering
+  - Convolutional Neural Networks
+  - Recurrent Neural Networks
+  answer: Artificial Neural Networks
+  dateAsked: null
+  numCorrect: 0
+  question: These are like human long term memory because they retain their weight
+    value settings once they have completed training. Long term memories are contained
+    in the temporal lobe of the human brain therefore they are often compared to the
+    temporal lobe.
+- alternatives:
+  - Affinity Propagation Clustering
+  - Artificial Neural Networks
+  - Recurrent Neural Networks
+  answer: Convolutional Neural Networks
+  dateAsked: null
+  numCorrect: 0
+  question: These are often used to solve computer vision problems and are therefore
+    compared to the occipital lobe of the human brain.
+- alternatives:
+  - Affinity Propagation Clustering
+  - Artificial Neural Networks
+  - Convolutional Neural Networks
+  answer: Recurrent Neural Networks
+  dateAsked: null
+  numCorrect: 0
+  question: These are often used to solve time series problems and are usually compared
+    to the frontal lobe of the human brain.
+- alternatives:
+  - Backpropagation
+  - Bayes Theorem
+  - Nominal data
+  answer: Activation Functions
+  dateAsked: null
+  numCorrect: 0
+  question: These are the functions that receive data from one neuron in a neural
+    network and then pass that data onto the next neuron.
+- alternatives:
+  - Backpropagation
+  - Bayes Theorem
+  - Nominal data
+  answer: Affinity Propagation Clustering
+  dateAsked: null
+  numCorrect: 0
+  question: This attempts to turn a data set into a set of clusters that are each
+    represented by a single data point. There is no initial attempt to set the number
+    of clusters that are expected to be produced when using this algorithm.
+- alternatives:
+  - Bias
+  - Homologous
+  - Input
+  answer: Artificial Neuron
+  dateAsked: null
+  numCorrect: 0
+  question: This is an elementary unit in an artificial neural network. Each neuron
+    consists of more than one function that takes in an input (some data) applies
+    a weight to the result of that function, and then the weighted output of all of
+    the inputs (functions) are added together along with a bias and the output of
+    the neuron is that value.
+- alternatives:
+  - BIRCH
+  - Data Flow
+  - Distribution Based Clustering Algorithm
+  answer: Backpropagation
+  dateAsked: null
+  numCorrect: 0
+  question: This is a technique that uses gradient decent. It calculates the gradient
+    of the loss function at output, and distributes it back through the layers of
+    a deep neural network. The result is adjusted weights for neurons.
+- alternatives:
+  - Cost Function
+  - Lemmatization
+  - Tensor
+  answer: Bayes Theorem
+  dateAsked: null
+  numCorrect: 0
+  question: This is a formula for determining the likelihood of an outcome occurring
+    based on a previous outcome occurring.
+- alternatives:
+  - Gradient Clipping
+  - Interval data
+  - Input
+  answer: Bias
+  dateAsked: null
+  numCorrect: 0
+  question: These are values added to the end of each neuron of a neural network layer's
+    output. So first all of the input values are manipulated by a function and then
+    that output is multiplied by the weight that particular input's output has been
+    given, each of the now weighted results from each input are added together, and
+    to this total is added the bias. This final value is the value output of that
+    neuron.
+- alternatives:
+  - K-Means Clustering
+  - Mean-Shift Clustering
+  - Cost Function
+  answer: Gaussian Mixture
+  dateAsked: null
+  numCorrect: 0
+  question: This method is the use of multiple Gaussian models as hidden layers within
+    your neural network. Your data set values are then assigned to one of these models
+    based on their value. This then becomes how each data point is classified.
+- alternatives:
+  - K-Means Clustering
+  - Gaussian Mixture
+  - Data Normalization
+  answer: Mean-Shift Clustering
+  dateAsked: null
+  numCorrect: 0
+  question: This algorithm iterates over every data point and attempts to shift them
+    towards the highest density of data values within a cluster of data.
+- alternatives:
+  - K-Means Clustering
+  - Gaussian Mixture
+  - Mean-Shift Clustering
+  answer: Data Normalization
+  dateAsked: null
+  numCorrect: 0
+  question: What happens when you subtract the smallest numeric value contained in
+    your data set from the total value of all the items in your dataset and then divide
+    that number by the total number of items in your dataset. This value is the scaler
+    for your neural network.
+- alternatives:
+  - '3.9'
+  - '3.10'
+  - '3.12'
+  answer: '3.11'
+  dateAsked: null
+  numCorrect: 0
+  question: Which version of Python is the first with TOML support built in?
+- alternatives:
+  - List
+  - Sequence
+  - Set
+  answer: Array
+  dateAsked: null
+  numCorrect: 0
+  question: What's the name of the list-like data structure in TOML?
+- alternatives:
+  - Artificial Neuron
+  - Data Flow
+  - Multi-layer Neural Network
+  answer: Deep Learning
+  dateAsked: null
+  numCorrect: 0
+  question: This concept was originally conceived by Geoffrey Hinton when in 1986
+    he and a team of researchers applied the backpropagation algorithm to multi-layer
+    neural networks.
+- alternatives:
+  - Input
+  - Output
+  - Bias
+  answer: Mode
+  dateAsked: null
+  numCorrect: 0
+  question: This is the value that occurs most often within a dataset.
+- alternatives:
+  - Semi-Supervised Learning
+  - Unsupervised Learning
+  - Backpropagation
+  answer: Supervised Learning
+  dateAsked: null
+  numCorrect: 0
+  question: With this kind of machine learning you have datasets with correctly labeled
+    data that you can use to train your model. Thus ensuring that it will come out
+    with the desired results if it is given an unlabeled dataset similar to the kind
+    it was trained on.
+- alternatives:
+  - Supervised Learning
+  - Unsupervised Learning
+  - Backpropagation
+  answer: Semi-Supervised Learning
+  dateAsked: null
+  numCorrect: 0
+  question: With this kind of machine learning you are training your model with a
+    large dataset, some of which is labeled correctly and some of which isnt.
+- alternatives:
+  - Semi-Supervised Learning
+  - Supervised Learning
+  - Backpropagation
+  answer: Unsupervised Learning
+  dateAsked: null
+  numCorrect: 0
+  question: With this kind of machine learning you are training your model on a dataset
+    that contains no pre-labeled data at all relying entirely on your model to find
+    any patterns in the data contained within it.
+- alternatives:
+  - Density Based Clustering Algorithm
+  - Distribution Based Clustering Algorithm
+  - Agglomeration Clustering Algorithm
+  answer: Clustering Algorithms
+  dateAsked: null
+  numCorrect: 0
+  question: This is a class of algorithms designed to take an unlabeled dataset and
+    place the items within it into groups or clusters that share characteristics with
+    one another. You can then break out the individual clusters of data points and
+    work with them as separate datasets to attempt to gain insight into the data they
+    contain. There are different types of clustering algorithms Density Based, Distribution
+    Based, Centroid Based, and Hierarchical Based.
+- alternatives:
+  - Clustering Algorithms
+  - Distribution Based Clustering Algorithm
+  - Agglomeration Clustering Algorithm
+  answer: Density Based Clustering Algorithm
+  dateAsked: null
+  numCorrect: 0
+  question: This kind of clustering algorithm forms data clusters from the dataset
+    and then removes any outlying data points that do not fit any of the clusters
+    it created. You can run the same dataset through this kind of algorithm multiple
+    times to get increasingly well defined criteria for each cluster at the expense
+    of no-longer evaluating some of your data.
